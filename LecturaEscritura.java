@@ -17,6 +17,7 @@ public class LecturaEscritura {
      *Lee una cadena por teclado, y si no está 
      * vacía, laguarda(escribe) en un fichero.
      * Stream type:Character, Output(clase FileWriter)
+     * Introducimos nuevo cambio
      */
     public static void main(String[] args) throws IOException {
         String texto=JOptionPane.showInputDialog("Teclea texto");
